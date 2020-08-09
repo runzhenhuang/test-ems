@@ -1,0 +1,1 @@
+This is to test EMSCRIPTEN tool to compile a C++ "Hello World" to Wasm.
